@@ -7,9 +7,10 @@ For me personally, that means primarily Political Science and Programming/Data S
 One file per "field" (i.e. polisci.md, data_science.md, etc.)  
 Skill with descriptions for 10/10, 5/10 ranks.
 
-Here's Cal's description of how to do it:
-"List every professional skill/ability for which your current competency is above the absolute beginner level. 
-For each such skill, come up with a scale from 1 to 10, where 1 corresponds to absolute beginner, and 10 corresponds to the super star level. Make this scale concrete by stating specifically what it would mean to be at 10, and perhaps, what it would mean to be square in the middle with a score of 5."
+Here's Cal's description of how to do it:  
+"List every professional skill/ability for which your current competency is above the absolute beginner level.   
+For each such skill, come up with a scale from 1 to 10, where 1 corresponds to absolute beginner, and 10 corresponds to the super star level.  
+Make this scale concrete by stating specifically what it would mean to be at 10, and perhaps, what it would mean to be square in the middle with a score of 5."
 
 ## Benefits:
 "This exercise provides a useful quantitative inventory of your existing career capital. You can use this inventory in several ways. 
